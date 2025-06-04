@@ -1,0 +1,3 @@
+# company_inner_search_app
+
+このアプリは社内用のドキュメント検索アプリです。
